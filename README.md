@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Alan-Apanga
+- 👋 Hi, I’m Alan Apanga
 - 👀 I’m interested in Mathematical Optimization,machine learning and deeplearning
 - 🌱 I’m a fresh MSc graduate in Operations Research and Business Analytics
 - 💞️ I’m looking to collaborate on exciting projects
